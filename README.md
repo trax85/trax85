@@ -23,7 +23,7 @@
 - Self taught linux developer & android developer
 - Curently learning Flutter and Kotlin
 - Have made contributions to Kenzo and Cupida Kernel Development
-- Also i love long distance cycling !! 
+- Also i love Long Distance Cycling !! 
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1l-99MkzrjKo5EEP6bLw4HaJZeynHjKXy/view?usp=drivesdk)
 
 <br>

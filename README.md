@@ -62,7 +62,9 @@
 <div align="center">
 
 ![Tejas Udupa's GitHub stats](https://github-readme-stats.vercel.app/api?username=trax85&show_icons=true&theme=darcula&hide=prs,issues)
-<br></br>
+<br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=trax85&theme=dark)](https://git.io/streak-stats)
+</br>
 </div>
 
 <br>

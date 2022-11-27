@@ -5,7 +5,7 @@
 <h1 align="center"><b>Hi , I'm Tejas Udupa </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=F7A53D&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+World+!!!+&hearts;++;Self+taught+Linux+and+Android+Developer,;Computer+Science+Student,;Love+to+make+and+break+stuffs...&hearts"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=F7A53D&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+World+!!!+&hearts;++;Self+taught+Linux+and+Android+Developer,;Love+to+make+and+break+stuff+!&hearts;"></a>
 </p>
 
 
@@ -20,10 +20,10 @@
 <br>
 
 - BE CSE final year student at GAT Bangalore
-- Self taught linux developer & android developer
+- Self taught Linux & Android developer
 - Curently learning Flutter and Kotlin
 - Have made contributions to Kenzo and Cupida Kernel Development
-- Also i love Long Distance Cycling !! 
+- I love Long Distance Cycling, watching 80-90s Anime and reading old Mangas!! 
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1l-99MkzrjKo5EEP6bLw4HaJZeynHjKXy/view?usp=drivesdk)
 
 <br>
@@ -83,23 +83,12 @@
 <br>
 <div align='left'>
 
-<ul>
-
-<li>
-<a href="www.linkedin.com/in/tejas-udupa-s-32a788228" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  tejas udupa s-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:tejasudupa1285@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  tejas udupa s-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
+<p align="center">
+  <a href="www.linkedin.com/in/tejas-udupa-s-32a788228"><img alt="Linkedin" title="Tejas Udupa Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/trax85"><img alt="Github" title="Tejas Udupa Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:tejasudupa1285@gmail.com"><img alt="Gmail" title="Tejas Udupav Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://t.me/trax85"><img alt="Telegram" title="Tejas Udupa Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
+ </p>
 </div>
 
 <br>

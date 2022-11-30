@@ -13,9 +13,9 @@
 
 
 
-## <picture><img src = "https://github.com/trax85/trax85/assets/gifs/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/trax85/trax85/blob/main/Assets/gifs/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/trax85/trax85/assets/gifs/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/trax85/trax85/blob/main/Assets/gifs/Right_Side.gif" width = 250px></picture>
 
 <br>
 

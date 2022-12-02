@@ -11,7 +11,7 @@
 
 <br>
 
-## <picture><img src = "https://media.giphy.com/media/wJIDuZZmED8WVsiAHT/giphy.gif" width = "38"></picture> **About me**
+## <picture><img src = "https://media.giphy.com/media/RqXiytZsYiwniqQc4b/giphy.gif" width = "38"></picture> **About me**
 
 <picture> <img align="right" src="https://media.giphy.com/media/E3cAxPU82HUZrZ2nGG/giphy.gif" width = 250px></picture>
 

@@ -11,11 +11,9 @@
 
 <br>
 
+## <picture><img src = "https://media.giphy.com/media/wJIDuZZmED8WVsiAHT/giphy.gif" width = "38"></picture> **About me**
 
-
-## <picture><img src = "https://github.com/trax85/trax85/blob/main/Assets/gifs/about_me.gif" width = 50px></picture> **About me**
-
-<picture> <img align="right" src="https://github.com/trax85/trax85/blob/main/Assets/gifs/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://media.giphy.com/media/E3cAxPU82HUZrZ2nGG/giphy.gif" width = 250px></picture>
 
 <br>
 
@@ -64,7 +62,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
 <div align="center">
@@ -79,7 +77,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <img src="https://media.giphy.com/media/ZkoseoSVGIBmXTnWq8/giphy.gif" width ="80"><b>Let's Connect..!</b>
 <br>
 <div align='left'>
 
@@ -93,5 +91,4 @@
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
 <br>

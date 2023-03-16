@@ -19,7 +19,7 @@
 
 - BE CSE final year student at GAT Bangalore
 - Self taught Linux & Android developer
-- Curently learning Flutter and Kotlin
+- Curently learning Flutter and Application Development
 - Have made contributions to Kenzo and Cupida Kernel Development
 - I love Long Distance Cycling, watching 80-90s Anime and reading old Mangas!! 
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1l-99MkzrjKo5EEP6bLw4HaJZeynHjKXy/view?usp=drivesdk)
@@ -68,9 +68,9 @@
 <div align="center">
 
 ![Tejas Udupa's GitHub stats](https://github-readme-stats.vercel.app/api?username=trax85&show_icons=true&theme=darcula&hide=prs,issues)
-<br>
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=trax85&theme=dark)](https://git.io/streak-stats)
-</br>
+
 </div>
 
 <br>

@@ -19,7 +19,7 @@
 
 - BE CSE final year student at GAT Bangalore
 - Self taught Linux & Flutter developer
-- Curently learning C#, Advanced C++ and Application Development
+- Currently learning C#, Advanced C++ and Application Development
 - Have made contributions to Kenzo and Cupida Kernel Development
 - I love Long Distance Cycling, watching 80-90s Anime and reading old Mangas!! 
 - I am a Technology Indipendent Developer, [my resume](https://drive.google.com/file/d/1l-99MkzrjKo5EEP6bLw4HaJZeynHjKXy/view?usp=drivesdk)
